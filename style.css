@@ -1,0 +1,175 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+.logo{
+    padding-right: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.book-sum{
+    background-color:aqua;
+    max-width: 250px;
+    border: 2px solid rgb(189, 183, 183);
+    text-align: center;
+    clear: both;
+    overflow: auto;
+}
+
+
+.nav-bar{
+    background-color: lightblue;
+    overflow: hidden;
+    width: 100%;;  
+    float: right;  
+    text-align: right;
+
+}
+
+.nav-bar a {
+    
+        
+        font-size: 16px;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+}
+
+
+ul li{
+    
+    display: inline-block; 
+    padding:10px;
+    font-size:20px;
+     font-family:raleway;
+  }
+
+  ul li:hover{
+    color:orange;
+    
+  }
+  .banner{
+    background-image: url(book.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    color: white;
+  }
+    
+  /* }
+  .banner{
+    color: white;
+  } */
+
+  .first-banner{
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+    
+   
+    
+  }
+  .first-page{
+  
+  }
+
+  .home-banner{
+
+    padding-top: 100px;
+    text-align: center;
+  }
+
+  .first-line{
+    text-transform: capitalize;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    inline-size: 15px;
+    color:red;
+    margin: auto;
+    
+    text-align: center;
+    
+
+  }
+  .second-line {
+    text-transform: capitalize;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    inline-size: 15px;
+    color:yellowgreen;
+    
+   
+    
+
+  }
+
+  .third-line  {
+    text-transform: capitalize;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    inline-size: 15px;
+    color:blue;
+    margin: auto;
+    align-items: center;
+
+  }
+
+ .first-para{
+  margin: auto;
+  padding: 15px;
+  text-align: center;
+  font-size: 42px;
+  margin-top: 45px;
+  margin-bottom: 12px;
+ }
+
+ .button-home{
+  text-align: center;
+  size: 150px;
+  margin-bottom: 100px;
+ }
+
+ .browse{
+  font-size: 15px;
+  border: 2px solid black;
+  padding: 7px;
+  border-radius: 6%;
+  box-sizing: border-box;
+  margin-bottom: 105px;
+ }
+
+ .section-two{
+ margin: 50px;
+ padding-left: 25px;
+ padding-right: 25px;
+ text-align: center;
+ }
+
+ .heading{
+  font-size: 50px;
+ }
+
+ .footer{
+  text-align: center;
+  font-size: 15px;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-bottom: 0px;
+  color:rgb(59, 54, 54);
+  
+ }
+ footer{
+  background-color: lightgray;
+  padding: 50px 150px 50px 150px;
+ }
+
+ .contact-us{
+  text-align: center;
+  padding-bottom: 15px;
+  
+ }
