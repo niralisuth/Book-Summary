@@ -8,6 +8,10 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+header{
+  position: fixed;
+}
+
 .book-sum{
     background-color:aqua;
     max-width: 250px;
@@ -172,4 +176,9 @@ ul li{
   text-align: center;
   padding-bottom: 15px;
   
+ }
+
+
+ .browse {
+cursor: pointer;
  }
